@@ -11,22 +11,12 @@ permalink: /trainings/
 # {{ page.title }}
 <br>
 
-**Monday, April 27** 
-* Free Lightning Conference
-* 12:00pm to 1:30pm EDT/1800pm to 2000pm CET 
-* Register for login instructions
-* Will be livestreamed to our [YouTube channel](https://www.youtube.com/OWASPGlobal)
-
-**Tuesday, April 28** and **Wednesday, April 29** 
+**Tuesday, June 23** and **Wednesday, June 24** 
 * Virtual Training Courses
 * 12:00pm to 4:00pm EDT/1800pm to 2000pm CET 
 
-**Thursday, April 30** to **Saturday, May 1** 
-* Virtual Capture the Flag
-* 12:00pm (Apr 30) to 12:00pm (May 1) EDT/1800pm to 1800pm CET 
-
 **Training subject to change based on trainer availability.**
-
+{% if site.data.trainings.count > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
 {% for trainer in trainings %}
 <section class="trainer-section" id="{{trainer.SectionId}}">
@@ -42,3 +32,4 @@ permalink: /trainings/
 </ul>
 </section>
 {% endfor %}
+{% endif %}

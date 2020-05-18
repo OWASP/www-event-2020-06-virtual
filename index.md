@@ -70,11 +70,12 @@ layout: event
 * #### Register for the class you want by clicking below
 * Please note: All courses take place simultaneously over 2 days, only register for 1.
 * *(more information can be found on the [Training](/trainings/) page)*
+{% if site.data.trainings.count > 0 %}
 <ul>
   {% assign trainings = site.data.trainings | sort: 'Title' %}
   {% for trainer in trainings %}
     <li><a href="{{trainer.URL}}">{{ trainer.Title }}</a></li>
   {% endfor %}
 </ul>
-
+{% endif %}
 
