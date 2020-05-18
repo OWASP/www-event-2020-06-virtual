@@ -1,6 +1,6 @@
 ---
 
-title: Virtual AppSec Days April 2020
+title: Virtual AppSec Days June 2020
 permalink: /register/
 layout: event_noheader
 
