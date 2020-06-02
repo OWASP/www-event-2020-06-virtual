@@ -15,8 +15,7 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 * Check out the demo [here](https://www.acunetix.com/web-vulnerability-scanner/us-demo/?utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2)
 
 ### [![Checkmarx](https://owasp.org/assets/images/corp-member-logo/checkmarx.com){:width='150px'}]
-*
-* Check out the demo [here]
+* Check out the demo [here](https://www.checkmarx.com/)
 
 ### [![Netsparker](https://owasp.org/assets/images/corp-member-logo/netsparker.png){:width='150px'}](https://www.netsparker.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 * $100 Amazon Gift Card
