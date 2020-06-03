@@ -68,6 +68,17 @@
                 "discountable": "True",
                 "display_order": "6"
             }
+        },
+        {
+            "id": "sku_HOtfqFT5N3fEgg",
+            "name": "Training: Don't Run With Scissors: How to protect your developers from hurting themselves with their frameworks",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>In this world we live in, developer education will fail if even one mistake is made, which will expose a dangerous vulnerability. In this training, we’ll show how you can dramatically reduce the chance developers will shoot themselves in the foot by giving them safer versions of their common tools so your company can ship more secure code. <strong><em>Presented by Morgan Roman</em></strong></p>",
+                "discountable": "True",
+                "display_order": "7"
+            }
         }
     ]
 }
