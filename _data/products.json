@@ -46,6 +46,17 @@
                 "discountable": "True",
                 "display_order": "4"
             }
+        },
+        {
+            "id": "sku_HOtd9tZbZM8NWp",
+            "name": "Training: Attacking and Defending Containers and Kubernetes",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Attacking and Securing Applications leveraging containers and Kubernetes requires specific skill set and a deep understanding of the underlying architecture. This Training will be filled with demos and a few hands-on labs designed from real-world attacks to help understand all there is to attack and implement security in a scalable manner. <strong><em>Presented by Nithin Jois</em></strong></p>",
+                "discountable": "True",
+                "display_order": "5"
+            }
         }
     ]
 }
