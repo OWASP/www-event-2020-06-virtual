@@ -35,6 +35,17 @@
                 "discountable": "True",
                 "display_order": "3"
             }
+        },
+        {
+            "id": "sku_HOtaQlVL24vBtf",
+            "name": "Training: Applied Data Science and Machine Learning For Cyber Security",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This interactive course will teach security professionals how to use data science techniques to quickly manipulate and analyze security data. The course will cover the entire data science process from data preparation, exploratory data analysis, data visualization, machine learning, and model evaluation—all with a focus on security related problems. <strong><em>Presented by Charles Givre</em></strong></p>",
+                "discountable": "True",
+                "display_order": "4"
+            }
         }
     ]
 }
