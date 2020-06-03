@@ -79,6 +79,17 @@
                 "discountable": "True",
                 "display_order": "7"
             }
+        },
+        {
+            "id": "sku_HOtgHmUHYAWbwH",
+            "name": "Training: DevSecOps - Automating Security in DevOp",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>A single day course to understand how to inject Security into CI/CD/CM processes of DevOps through practical demonstrations. Audiences will also receive a complete DevSecOps lab containing all the open source tools and scripts using which the entire DevSecOps process has been implemented. <strong><em>Presented by Rohit Salecha</em></strong></p>",
+                "discountable": "True",
+                "display_order": "8"
+            }
         }
     ]
 }
