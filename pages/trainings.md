@@ -17,8 +17,6 @@ permalink: /
 
 **Training subject to change based on trainer availability.**
 
-COUNT: {{ site.data.trainings.count }}
-
 {% if site.data.trainings.count > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
 {% for trainer in trainings %}
