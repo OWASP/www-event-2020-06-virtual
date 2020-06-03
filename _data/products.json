@@ -101,6 +101,17 @@
                 "discountable": "True",
                 "display_order": "9"
             }
+        },
+        {
+            "id": "sku_HOtjMDJjghGmHB",
+            "name": "Training: Container Security Crash Course",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>In this crash-course, we'll cover container fundamentals focusing on Docker. Topics covered include: building images, security mechanisms in Docker, networking, CICD, vulnerability scanning and running containers alone or with an orchestration system like Kubernetes. The training also includes exercises and labs to provide hands-on experience. <strong><em>Presented by Matt Tesauro</em></strong></p>",
+                "discountable": "True",
+                "display_order": "10"
+            }
         }
     ]
 }
