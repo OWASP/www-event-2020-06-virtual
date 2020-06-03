@@ -13,6 +13,17 @@
                 "discountable": "True",
                 "display_order": "1"
             }
+        },
+        {
+            "id": "sku_HOtXAQOsswDPcL",
+            "name": "Training: Threat Modeling: Getting from None to Done",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This session offers an interactive introduction to Threat Modeling, based on the instructor's learning and experience over several years. A primary focus of this course is the introduction of threat modeling activities into your organization's software development processes, to improve the overall quality and security of the applications you build. <strong><em>Presented by John DiLeo</em></strong></p>",
+                "discountable": "True",
+                "display_order": "2"
+            }
         }
     ]
 }
