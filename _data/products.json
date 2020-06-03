@@ -112,6 +112,17 @@
                 "discountable": "True",
                 "display_order": "10"
             }
+        },
+        {
+            "id": "sku_HOtlF4mbFjqr26",
+            "name": "Training: Hacking the Cloud",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This compressed version of our hugely popular Hacking and Securing Cloud Infrastructure course cuts through the mystery of Cloud Services (inc AWS, Azure, GCP) to uncover the vulnerabilities that lie beneath. Covering both the theory as well as a number of modern techniques that may be used to compromise various Cloud services and infrastructure. <strong><em>Presented by Anthony Webb</em></strong></p>",
+                "discountable": "True",
+                "display_order": "11"
+            }
         }
     ]
 }
