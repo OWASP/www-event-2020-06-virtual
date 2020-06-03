@@ -90,6 +90,17 @@
                 "discountable": "True",
                 "display_order": "8"
             }
+        },
+        {
+            "id": "sku_HOti9nZAVOHV6o",
+            "name": "Training: Checkov: Static analysis for infrastructure code",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Automating policy checks for infrastructure as code prior to deployment is becoming a critical part of the Devops and security CI/CD pipeline. In this training, we’ll cover a simple method to write, test, and maintain infrastructure-as-code at scale using policy-as-code. <strong><em>Presented by Barak Schoster Goihman</em></strong></p>",
+                "discountable": "True",
+                "display_order": "9"
+            }
         }
     ]
 }
