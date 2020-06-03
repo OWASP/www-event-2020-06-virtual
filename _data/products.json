@@ -24,6 +24,17 @@
                 "discountable": "True",
                 "display_order": "2"
             }
+        },
+        {
+            "id": "sku_HOtY1f3pVzqopR",
+            "name": "Training: Securing Microservices with OAuth 2.0 and OpenID Connect (Hands-On Workshop)",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>OAuth 2.0 and OpenID Connect (OIDC) are the most commonly used solutions for authentication in microservice architectures as of today.<br />\nIn this hands-on training, participants will learn how OAuth 2.0 really works and how it differs from OIDC. We will cover concepts, implementing a client and resource server, automated testing, and best practices. <strong><em>Presented by Andreas Falk</em></strong></p>",
+                "discountable": "True",
+                "display_order": "3"
+            }
         }
     ]
 }
