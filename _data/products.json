@@ -57,6 +57,17 @@
                 "discountable": "True",
                 "display_order": "5"
             }
+        },
+        {
+            "id": "sku_HOtegNFigCZqb3",
+            "name": "Training: Defensive coding in JavaScript",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Are frameworks adequate to shield your JavaScript front-end apps and Node.js APIs from security attacks? What about the security implications of JavaScript language quirks, V8 constraints, and Node.js design idiosyncrasies? This hands-on course dives into practical knowledge crucial for building, reviewing, or pen-testing today's JavaScript stack. <strong><em>Presented by Chetan Karande</em></strong></p>",
+                "discountable": "True",
+                "display_order": "6"
+            }
         }
     ]
 }
