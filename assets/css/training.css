@@ -1,6 +1,6 @@
 .training-header {
 	margin-bottom:16px;
-	display: inline-block;
+	display: block;
 }
 
 .trainer-header{
@@ -90,8 +90,10 @@
 	.training-container {
 		height: 145px;
 	}
-	
-	
+
+	.training-header {
+		display: inline-block;
+	}
 }
 
 @media (max-width: 550px) {
