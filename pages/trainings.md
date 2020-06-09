@@ -13,7 +13,7 @@ permalink: /
 
 **Tuesday, June 23** and **Wednesday, June 24** 
 * Virtual Training Courses
-* 12:00pm to 4:00pm EDT/1800pm to 2000pm CET 
+* 12:00pm to 4:00pm EDT/1800pm to 2200pm CET 
 
 **Training subject to change based on trainer availability.**
 
@@ -27,7 +27,7 @@ permalink: /
 <li class="training-desc">{{ trainer.Description }}</li>
     <ul>
         {% for tr in trainer.Trainers %}
-        <li><div class="training-container"><a href="/trainers/#{{tr.TrainerId}}" title="{{tr.Biography}}"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div>{{tr.Name}}</a></div></li>
+        <li><div class="training-container"><a href="/trainers/#{{tr.TrainerId}}" title="{{tr.Biography | strip_html}}"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div>{{tr.Name}}</a></div></li>
         {% endfor %}
     </ul>
 </ul>
