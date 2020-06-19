@@ -79,7 +79,8 @@
                 "type": "regular",
                 "description": "<p>In this world we live in, developer education will fail if even one mistake is made, which will expose a dangerous vulnerability. In this training, we’ll show how you can dramatically reduce the chance developers will shoot themselves in the foot by giving them safer versions of their common tools so your company can ship more secure code. <strong><em>Presented by Morgan Roman</em></strong></p>",
                 "discountable": "True",
-                "display_order": "7"
+                "display_order": "7",
+                "display_end": "2020-06-18"
             }
         },
         {
