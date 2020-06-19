@@ -55,7 +55,8 @@
                 "type": "regular",
                 "description": "<p>Attacking and Securing Applications leveraging containers and Kubernetes requires specific skill set and a deep understanding of the underlying architecture. This Training will be filled with demos and a few hands-on labs designed from real-world attacks to help understand all there is to attack and implement security in a scalable manner. <strong><em>Presented by Nithin Jois</em></strong></p>",
                 "discountable": "True",
-                "display_order": "5"
+                "display_order": "5",
+                "display_end": "2020-06-18"
             }
         },
         {
