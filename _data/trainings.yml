@@ -216,30 +216,6 @@
   Staus: Postponed
 - Type: Training
   Trainers:
-    - Name: Morgan Roman
-      Email: morgan.roman@protonmail.com
-      Image: /assets/images/trainers/trainer-morgan-roman.jpg
-      Twitter: hackimedes
-      Biography: "Morgan Roman works on the application security team at CoinBase. He started his career writing integration 
-        tests for web applications and APIs as a software development engineer in test. He is passionate about finding ways 
-        to automate security development and testing and make it part of the deployment process."
-      TrainerId: morgan_roman
-  Title: "Don't Run With Scissors: How to protect your developers from hurting themselves with their frameworks"
-  URL: /register/?id=sku_HOtfqFT5N3fEgg
-  SectionId: sku_HOtfqFT5N3fEgg
-  Description: "Developers often do not know what the common issues are with the framework they are using. At the same time, 
-    most common frameworks ship with easy ways to shoot your application’s security in the foot. In this world we live in, developer 
-    education will fail if even one mistake is made, which will expose a dangerous vulnerability. In this talk, we’ll show how you 
-    can dramatically reduce the chance developers will shoot themselves in the foot by giving them safer versions of their common 
-    tools so your company can ship more secure code.<br>
-    We will write wrapper classes and safe versions of common tools to eliminate XSS vectors, open redirects, XXE, SSRF, LFI, and 
-    other dangerous bugs in your codebase. After that we’ll show simple steps to educate developers and gain traction in your 
-    organization. Then we’ll show how easy it is to integrate SAST tools in your CI/CD pipeline to ensure your developers use your 
-    safe tools rather than the footguns built into common frameworks.<br>
-    This session is ideal for security engineers interested in eliminating entire classes of security bugs inside their code base."
-  Status: Postponed
-- Type: Training
-  Trainers:
     - Name: Rohit Salecha
       Email: rohit@notsosecure.com
       Image: /assets/images/trainers/trainer-rohit-salecha.png
